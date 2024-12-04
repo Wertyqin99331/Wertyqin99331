@@ -15,3 +15,5 @@
 <h3>My projects:</h3>
 <a href="https://ivandolgikh.github.io/CoachSearch/">Coach Search</h4>
 <p>A website, that helps coaches to find clients</p>
+![image](https://github.com/user-attachments/assets/d120c6f1-af9e-4930-9f1e-56616973f1c9)
+
