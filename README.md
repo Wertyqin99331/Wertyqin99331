@@ -19,3 +19,7 @@
 <a href="https://ivandolgikh.github.io/CoachSearch/">Coach Search - сайт по поиску тренеров</h4>
 ![image](https://github.com/user-attachments/assets/29ee5059-9a86-40e8-bc75-323bd450e172)
 
+<a href="https://github.com/Wertyqin99331/ecommerce-microservices-c-">Ecommerce-microservices - интернет магазин с микросервисной архитектурой<a/>
+![image](https://github.com/user-attachments/assets/a3f547c7-9bf9-4367-8961-3b3f0a641b2e)
+
+
